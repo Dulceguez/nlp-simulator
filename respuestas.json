@@ -1,0 +1,6 @@
+{
+    "saldo": "Tu saldo actual es de $1,450,000 (Cuenta Corriente). Te puedo ayudar en algo mas?",
+    "transferencia": "Para hacer una transfecerencia, indica el CBU/ALIAS destino y el monto desde la app o home banking.",
+    "bloqueo": "Entiendo, la seguridad es primero. Deseas bloquear temporalmente tu tarjeta de debito/credito?",
+    "desconocido": "No llegue a entender del todo tu consulta. Te referis a consultar saldo, trasnferir o bloquear una tarjeta?"
+}
